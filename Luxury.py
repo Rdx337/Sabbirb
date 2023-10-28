@@ -1,7 +1,7 @@
 import os, sys
-try:os.system('am start https://m.facebook.com/groups/631125062409004/') #-------(fb new group)
-#try:os.system('am start https://chat.whatsapp.com/CFw6Gm4gocDHi9tyxWQkBB') #--------(New)
-#try:os.system('am start https://chat.whatsapp.com/GrK92u6DyRAATVIs5sD6Zo') #-----------(Old)
+try:os.system('am start https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL') #-------(fb new group)
+#try:os.system('am start https://chat.whatsapp.com/EkWTPemPvC5CoWkeJrTO1v') #--------(New)
+#try:os.system('am start https://chat.whatsapp.com/EkWTPemPvC5CoWkeJrTO1v') #-----------(Old)
 except:pass
 try:os.system('git pull')
 except:pass
